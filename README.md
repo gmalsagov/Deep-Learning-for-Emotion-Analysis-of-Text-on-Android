@@ -25,7 +25,7 @@
 
 ### Confusion Matrix:
 
-![alt text]( "Confusion matrix for CNN trained with Word2Vec Word Embeddings")
+![alt text](conf_matrix.png "Confusion matrix for CNN trained with GloVe Word Embeddings")
 
 ### Data: ISEAR Emotion Dataset<br> (http://www.affective-sciences.org/home/research/materials-and-online-research/research-material)
   - Input: **Emotion rich tweets**
