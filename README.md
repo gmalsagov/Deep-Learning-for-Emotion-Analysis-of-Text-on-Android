@@ -15,7 +15,7 @@
     ----------------------------|----------
     LR with BoW                 | 14.3%
     LR with TF-IDF              | 16.5%
-    CNN with WE train on Movies | 49.1&
+    CNN with WE train on Movies | 49.1%
     CNN with Random Weights     | 51.69%
     CNN with GloVe              | 60.25%
     CNN with Word2Vec           | 62.62%
